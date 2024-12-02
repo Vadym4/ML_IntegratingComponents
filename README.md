@@ -12,5 +12,4 @@ This folder contains the dataset constructed as part of this work
 
 # Implementation (Folder: Implementation)
 This folder contains the implementation of the model, which was created in this work
-- main.py: Whole model in one file. Start by running the main, which will train and test the model on Dataset 1(Phishing) and Dataset 2(Clean-Normal)
-- additional_experiments.py: Contains the implementation for additional experiments tested
+- main.py: 
