@@ -12,4 +12,5 @@ This folder contains the dataset constructed as part of this work
 
 # Implementation (Folder: Implementation)
 This folder contains the implementation of the model, which was created in this work
-- main.py: 
+- Model_Full.py: One File, which contains the model implementation, preprocessing, training and evaluation. Is currently being refactored in multiple files for better usability
+  
