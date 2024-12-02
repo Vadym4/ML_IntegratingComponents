@@ -1,1 +1,1 @@
-
+This repo contains the variation of the model where it is trained in two phases: First, the components are trained. Then the attention mechanism and final classifier. 
